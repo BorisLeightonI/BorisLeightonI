@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BorisLeightonI
-- 👀 I’m interested in Computer Science, specially in Web development and Data Analysis.
-- 🌱 I’m currently a Master in CS student in MIU, Iowa, USA.
-- 💞️ I’m looking to define wich area could choose
+- 👀 I’m interested in Web development and Data Analysis.
+- 🌱 I’m currently studing a Master in Computer Science in MIU, Iowa, USA.
+- 💞️ I’m looking to master web skills
 - 📫 How to reach me ... later I will post my contact info.
 
 <!---
